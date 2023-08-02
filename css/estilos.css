@@ -19,8 +19,17 @@
     background: rgb(109, 61, 61);
 }
 
+.div-img_height{
+    height: 25rem;
+}
+
 @media (max-width: 767px) {
     .td-img_height{
        height: 2.3rem;
+    }
+    .div-img_height{
+        height: 10rem;
+        margin-bottom: 3rem;
+        margin-top: 3rem;
     }
 }
