@@ -18,3 +18,9 @@
 .navbar-toggler-icon{
     background: rgb(109, 61, 61);
 }
+
+@media (max-width: 767px) {
+    .td-img_height{
+       height: 2.3rem;
+    }
+}
