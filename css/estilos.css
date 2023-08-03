@@ -24,7 +24,12 @@
 }
 
 .div-imgpin_height{
-    height: 15.3rem;
+    height: 16.3rem;
+}
+
+.div-div_height{
+    height: 2rem;
+    width: 3%;
 }
 
 @media (max-width: 767px) {
