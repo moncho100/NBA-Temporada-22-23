@@ -33,7 +33,10 @@
 }
 
 
-
+.altura{
+    height: 16rem;
+    width: 80%;
+}
 
 
 
@@ -52,4 +55,8 @@
     .altura{
         height: 13.3rem;
     }
+    .pe{
+        height: 2rem;
+    }
 }
+
