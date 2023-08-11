@@ -43,9 +43,7 @@
 }
 
 @media (max-width: 767px) {
-    .td-img_height{
-        height: 2.3rem;
-    }
+    
     .div-img_height{
         height: 12.5rem;
         margin-bottom: 3rem;
@@ -60,5 +58,15 @@
     .sm-text-fs{
         font-size: 0.8rem;
     }
+}
+
+@media (min-width: 992px) { 
+    .sm-text-fs{
+        font-size: 1rem;
+    }
+    .td-img_height{
+        height: 3rem;
+    }
+
 }
 
