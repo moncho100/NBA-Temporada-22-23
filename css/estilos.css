@@ -42,6 +42,10 @@
     height: 5rem;
 }
 
+.table-caption_style{
+    color: rgb(184, 57, 57);
+}
+
 @media (max-width: 767px) {
     
     .div-img_height{
@@ -58,6 +62,12 @@
     .sm-text-fs{
         font-size: 0.8rem;
     }
+    .td-img_height{
+        height: 1.8rem;
+    }
+    .table-caption_style{
+        font-size: 1rem;
+    }
 }
 
 @media (min-width: 992px) { 
@@ -67,6 +77,8 @@
     .td-img_height{
         height: 3rem;
     }
-
+    .table-caption_style{
+        font-size: 1.8rem;
+    }
 }
 
