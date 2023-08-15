@@ -68,6 +68,12 @@
     .table-caption_style{
         font-size: 1rem;
     }
+    .ms-6{
+        margin-left: 4rem;
+    }
+    .button-img_height{
+        height: 2.5em;
+    }
 }
 
 @media (min-width: 992px) { 
@@ -79,6 +85,9 @@
     }
     .table-caption_style{
         font-size: 1.4rem;
+    }
+    .ms-6{
+        margin-left: 27.5rem;
     }
 }
 
