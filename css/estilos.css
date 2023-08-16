@@ -68,11 +68,12 @@
     .table-caption_style{
         font-size: 1rem;
     }
-    .ms-6{
-        margin-left: 4rem;
-    }
+    
     .button-img_height{
         height: 2.5em;
+    }
+    .p-sm_font-size{
+        font-size: 0.7rem;
     }
 }
 
@@ -87,7 +88,11 @@
         font-size: 1.4rem;
     }
     .ms-6{
-        margin-left: 27.5rem;
+        margin-left: 22.5rem;
     }
+    .p__font-size{
+        font-size: 1.3rem;
+    }
+
 }
 
