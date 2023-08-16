@@ -75,6 +75,12 @@
     .p-sm_font-size{
         font-size: 0.7rem;
     }
+    .p_ms{
+        margin-left: 0.3rem;
+    }
+    .p_me{
+        margin-right: 0.2rem;
+    }
 }
 
 @media (min-width: 992px) { 
@@ -93,11 +99,11 @@
     .p__font-size{
         font-size: 1.3rem;
     }
-    .p-lg_ms{
-        margin-left: 1.2rem;
+    .p_ms{
+        margin-left: 0.5rem;
     }
-    .p-lg_me{
-        margin-right: 1.2rem;
+    .p_me{
+        margin-right: 0.5rem;
     }
 }
 
