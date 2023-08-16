@@ -13,7 +13,7 @@
 
 
 .navbar-toggler{
- color: whitesmoke;
+    color: whitesmoke;
 }
 .navbar-toggler-icon{
     background: rgb(177, 6, 6);
@@ -45,6 +45,7 @@
 .table-caption_style{
     color: rgb(184, 57, 57);
 }
+
 
 @media (max-width: 767px) {
     
@@ -81,6 +82,9 @@
     .p_me{
         margin-right: 0.2rem;
     }
+    .p__font-size{
+        font-size: 1rem;
+    }
 }
 
 @media (min-width: 992px) { 
@@ -97,7 +101,7 @@
         margin-left: 22.5rem;
     }
     .p__font-size{
-        font-size: 1.3rem;
+        font-size: 1.1rem;
     }
     .p_ms{
         margin-left: 0.5rem;
