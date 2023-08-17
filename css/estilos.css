@@ -84,6 +84,13 @@
     .p__font-size{
         font-size: 1rem;
     }
+    .ms-7{
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    .ms-6{
+        margin-left: 1rem;
+    }
 }
 
 @media (min-width: 992px) { 
@@ -97,7 +104,7 @@
         font-size: 1.4rem;
     }
     .ms-6{
-        margin-left: 22.5rem;
+        margin-left: 21rem;
     }
     .p__font-size{
         font-size: 1rem;
