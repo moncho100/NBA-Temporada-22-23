@@ -19,9 +19,6 @@
     background: rgb(177, 6, 6);
 }
 
-.div-img_height{
-    height: 22.5rem;
-}
 
 .div-imgpin_height{
     height: 16.3rem;
@@ -50,7 +47,7 @@
 @media (max-width: 767px) {
     
     .div-img_height{
-        height: 12.5rem;
+        height: 11rem;
         margin-bottom: 3rem;
         margin-top: 3rem;
     }
@@ -92,10 +89,13 @@
         height: 10rem;
     }
     .ms-sm-6{
-        margin-left: 2rem;
+        margin-left: 3.5rem;
     }
     .me-sm-6{
         margin-right: 2.5rem;
+    }
+    .ms-7{
+        margin-left: 6rem;
     }
 }
 
@@ -110,7 +110,7 @@
         font-size: 1.4rem;
     }
     .ms-6{
-        margin-left: 21rem;
+        margin-left: 23rem;
     }
     .p__font-size{
         font-size: 1rem;
@@ -125,5 +125,18 @@
         margin-top: 5rem;
         height: 30.5rem;
     }
+    .ms-lg-6{
+        margin-left: 8.5rem;
+    }
+    .me-lg-6{
+        margin-right: 5rem;
+    }
+    .ms-7{
+        margin-left: 25rem;
+    }
+    .div-img_height{
+        height: 17.5rem;
+    }
+    
 }
 
