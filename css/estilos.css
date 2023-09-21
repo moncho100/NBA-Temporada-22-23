@@ -135,7 +135,11 @@
     }
     .img-lg__height{
         margin-top: 2.5rem;
-        height: 25.5rem;
+        height: 34rem;
+    }
+    .img-lg__height-1{
+        margin-top: 2.5rem;
+        height: 34rem;
     }
     .ms-lg-6{
         margin-left: 8.5rem;
