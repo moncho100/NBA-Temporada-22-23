@@ -169,7 +169,11 @@
     .mb-sm-4{
         margin-bottom: 2rem;
     }
+    .img-sm__height{
+        height: 20rem;
+    }
 }
+
 
 @media (min-width: 992px) { 
     .sm-text-fs{
@@ -213,8 +217,6 @@
     .div-img_height{
         height: 17.5rem;
     }
-    .sa{
-        height: 40rem;
-    }
+    
 }
 
