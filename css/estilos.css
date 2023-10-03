@@ -172,6 +172,12 @@
     .img-sm__height{
         height: 20rem;
     }
+    .d-sm-flex{
+        display: flex;
+    }
+    .justify-content-sm-center{
+        justify-content: center;
+    }
 }
 
 
